@@ -1,26 +1,26 @@
 Inicio
-1-Me despierto
-2-Apago la alarma
-3-Hago una horación
-4-Me baño
-5-Desayuno
-6-Me Cepillo
-7-Hago la limpieza en toda la casa
-8-voy al terreno
-9-Trabajo en el terreno
-10-Me regreso a la casa
-11-Tomo un pequeño descanso de 20 minutos
-12-Almuerzo
-13-Me Cepillo
-14-Hago mis tareas
-15-Repaso las clases anteriores que he recibido
-16-Como una golosina
-17-Miro Televisión
-18-Me preparo para la clase de Bitlab
-19-Recibo la clase
-20-Termina la clase
-21-Ceno
-22-Me Cepillo
-23-Hago una horación 
-24-Me voy a dormir
+6:00-Me despierto
+6:01-Apago la alarma
+6:05-Hago una oración
+6:10-Me baño
+6:30-Desayuno
+6:45-Me Cepillo
+6:50-Hago la limpieza en toda la casa
+7:15-voy al terreno
+8:30-Trabajo en el terreno
+11:00-Me regreso a la casa
+12:15-Tomo un pequeño descanso de 20 minutos
+12:35-Almuerzo
+1:00-Me Cepillo
+1:05-Hago mis tareas
+3:30-Repaso las clases anteriores que he recibido
+4:15-Como una golosina
+4:30-Miro Televisión
+5:00-Me preparo para la clase de Bitlab
+6:00-Recibo la clase
+8:00-Termina la clase
+8:05-Ceno
+8:30-Me Cepillo
+8:35-Hago una oración 
+8:45-Me voy a dormir
 FIN
