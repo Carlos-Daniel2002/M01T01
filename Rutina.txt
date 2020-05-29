@@ -12,11 +12,9 @@ Inicio
 12:15-Tomo un pequeño descanso de 20 minutos
 12:35-Almuerzo
 1:00-Me Cepillo
-1:05-Me regreso al terreno
-2:10-Trabajo en el terreno con mi papá
-3:30-Me regreso a la casa
-4:30-Hago mis tareas
-5:30-Me preparo para la clase de Bitlab
+1:05-Me voy a dormir
+5:00-Me despierto
+5:05-Me preparo para la clase de Bitlab
 6:00-Recibo la clase
 8:00-Termina la clase
 8:05-Ceno
