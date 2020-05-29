@@ -6,14 +6,13 @@ Inicio
 6:30-Desayuno
 6:45-Me Cepillo
 6:50-Hago la limpieza en toda la casa
-7:15-voy al terreno
-8:30-Trabajo en el terreno
-11:00-Me regreso a la casa
+7:15-Hago mis tareas
+12:10-Termino mis tareas
 12:15-Tomo un pequeño descanso de 20 minutos
 12:35-Almuerzo
 1:00-Me Cepillo
-1:05-Me voy a dormir
-5:00-Me despierto
+1:05-Miro Televisión
+2:00-Repaso las clases anteriores
 5:05-Me preparo para la clase de Bitlab
 6:00-Recibo la clase
 8:00-Termina la clase
