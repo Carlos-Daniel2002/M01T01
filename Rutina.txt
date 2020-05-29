@@ -1,28 +1,29 @@
-﻿Inicio
-1-Me despierto
-2-Apago la alarma
-3-Hago una oración
-4-Corro super rapido al lago más cercano
-5-Me baño en el lago
-6-Regreso a la casa corriendo super rapido
-5-Desayuno
-6-Me Cepillo
-7-Hago la limpieza en toda la casa en un minuto
-8-Hago las tareas
-9-Termino las tareas
-10-Descanso un par de minutos
-11-Voy al super mercado volando y compro unas golosinas para mi solo.
-12-Regreso a la casa, volando
-13-Me como todas las golosinas
-14-voy a visitar a unos vecinos en el planeta más cercano
-15-Regreso a la casa
-16-Voy al terreno corriendo
-17-hago todo el trabajo super rapido
-18-Me preparo para la clase de Bitlab
-19-Recibo la clase
-20-Termina la clase
-21-Ceno
-22-Me Cepillo
-23-Hago una oración 
-24-Me voy a dormir
+Inicio
+6:00-Me despierto
+6:01-Apago la alarma
+6:05-Hago una oración
+6:10-Corro super rapido al lago más cercano
+6:20-Me baño en el lago
+6:45-Regreso a la casa corriendo super rapido
+6:50-Desayuno
+7:15-Me Cepillo
+7:20-Hago la limpieza en toda la casa en un minuto
+7:21-Hago las tareas
+11:00-Termino las tareas
+11:05-Descanso un par de minutos
+11:30-Voy al super mercado volando y compro unas golosinas para mi solo.
+12:00-Regreso a la casa, volando
+1:05-Me como todas las golosinas
+2:00-voy a visitar a unos vecinos en el planeta más cercano
+3:00-Regreso a la casa
+3:10-Voy al terreno corriendo
+3:20-hago todo el trabajo super rapido
+3:45-Regreso a la casa
+4:00-Me preparo para la clase de Bitlab
+6:00-Recibo la clase
+8:00-Termina la clase
+8:05-Ceno
+8:30-Me Cepillo
+8:35-Hago una oración
+8:45-Me voy a dormir
 FIN
