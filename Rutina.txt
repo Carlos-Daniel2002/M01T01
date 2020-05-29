@@ -1,0 +1,28 @@
+﻿Inicio
+1-Me despierto
+2-Apago la alarma
+3-Hago una oración
+4-Corro super rapido al lago más cercano
+5-Me baño en el lago
+6-Regreso a la casa corriendo super rapido
+5-Desayuno
+6-Me Cepillo
+7-Hago la limpieza en toda la casa en un minuto
+8-Hago las tareas
+9-Termino las tareas
+10-Descanso un par de minutos
+11-Voy al super mercado volando y compro unas golosinas para mi solo.
+12-Regreso a la casa, volando
+13-Me como todas las golosinas
+14-voy a visitar a unos vecinos en el planeta más cercano
+15-Regreso a la casa
+16-Voy al terreno corriendo
+17-hago todo el trabajo super rapido
+18-Me preparo para la clase de Bitlab
+19-Recibo la clase
+20-Termina la clase
+21-Ceno
+22-Me Cepillo
+23-Hago una oración 
+24-Me voy a dormir
+FIN
