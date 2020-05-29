@@ -1,0 +1,26 @@
+Inicio
+1-Me despierto
+2-Apago la alarma
+3-Hago una horación
+4-Me baño
+5-Desayuno
+6-Me Cepillo
+7-Hago la limpieza en toda la casa
+8-voy al terreno
+9-Trabajo en el terreno
+10-Me regreso a la casa
+11-Tomo un pequeño descanso de 20 minutos
+12-Almuerzo
+13-Me Cepillo
+14-Hago mis tareas
+15-Repaso las clases anteriores que he recibido
+16-Como una golosina
+17-Miro Televisión
+18-Me preparo para la clase de Bitlab
+19-Recibo la clase
+20-Termina la clase
+21-Ceno
+22-Me Cepillo
+23-Hago una horación 
+24-Me voy a dormir
+FIN
